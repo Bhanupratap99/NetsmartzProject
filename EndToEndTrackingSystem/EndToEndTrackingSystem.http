@@ -1,0 +1,6 @@
+@EndToEndTrackingSystem_HostAddress = http://localhost:5129
+
+GET {{EndToEndTrackingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
