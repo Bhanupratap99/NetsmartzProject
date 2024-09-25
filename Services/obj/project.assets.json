@@ -4389,19 +4389,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bahnu.partap1\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ETE-Project\\31 August\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\ETE-Project\\31 August\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\bahnu.partap1\\.nuget\\packages\\",
-      "outputPath": "D:\\ETE-Project\\31 August\\Services\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bahnu.partap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4416,11 +4416,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ETE-Project\\31 August\\Data\\Data.csproj": {
-              "projectPath": "D:\\ETE-Project\\31 August\\Data\\Data.csproj"
+            "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Data\\Data.csproj"
             },
-            "D:\\ETE-Project\\31 August\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\ETE-Project\\31 August\\Repository\\Repository.csproj"
+            "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\24september\\24_september_GIT\\NetsmartzProject\\NetsmartzProject\\NetsmartzProject\\Repository\\Repository.csproj"
             }
           }
         }
@@ -4489,7 +4489,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
